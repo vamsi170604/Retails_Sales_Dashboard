@@ -15,6 +15,16 @@ The dashboard was built using the following tools and technologies:<br>
 - 📈 Data Modeling – Relationships created among customers, products, sales, and regional datasets.<br>
 - 📁 File Formats – .xlsx for Excel dashboard files and .png for dashboard previews.
 
+# 🗄️ SQL Analysis Queries
+The project also includes SQL queries used for:
+- Revenue analysis
+- Profitability analysis
+- Customer insights
+- Regional performance analysis
+- KPI calculations
+- Trend analysis
+📁 SQL files are available in the `Sql/` folder.
+
 # Data Source
 Source: Retail shop sales dataset containing customer transactions, product details, regional sales, shipping information, and order performance data.
 The dataset includes:<br>
