@@ -91,6 +91,10 @@ It helps identify top-performing regional markets and areas with growth opportun
 - 🚚 Shipping Optimization: Evaluates shipping efficiency and operational performance.
 - ⚡ Faster Decision-Making: Converts raw retail data into actionable business insights.
 
- 
+ # Dashboard Preview
+
+## RetailVision Analytics: Retail Shop Sales Insights Dashboard
+
+![Dashboard Preview](https://github.com/vamsi170604/Retails_Sales_Dashboard/blob/main/Retail%20Shop%20Sales%20Dashboard.png)
 
 
